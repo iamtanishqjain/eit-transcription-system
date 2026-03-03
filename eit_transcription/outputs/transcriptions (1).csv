@@ -1,0 +1,16 @@
+learner_id,sentence_id,audio_file,raw_transcription,corrected_transcription,confidence_score,duration_seconds,processing_time_ms,flags
+learner,learner_01_sentence_01,/content/audio_samples/learner_01_sentence_01.wav,El niño come una manzana roja,El niño come una manzana roja,0.897,2.7,56.9,
+learner,learner_01_sentence_02,/content/audio_samples/learner_01_sentence_02.wav,La profesora habla,La profesora habla,0.605,3.27,54.5,low_confidence
+learner,learner_01_sentence_03,/content/audio_samples/learner_01_sentence_03.wav,Nosotros vivimos en ciudad grande,Nosotros vivimos en ciudad grande,0.737,2.23,53.3,
+learner,learner_01_sentence_04,/content/audio_samples/learner_01_sentence_04.wav,Ella siempre estudia por la noche,Ella siempre estudia por la noche,0.896,1.95,54.5,
+learner,learner_01_sentence_05,/content/audio_samples/learner_01_sentence_05.wav,Los pájaros cantan en el jardín,Los pájaros cantan en el jardín,0.891,3.15,55.5,
+learner,learner_02_sentence_01,/content/audio_samples/learner_02_sentence_01.wav,El niño come una manzana roja,El niño come una manzana roja,0.945,2.53,53.5,
+learner,learner_02_sentence_02,/content/audio_samples/learner_02_sentence_02.wav,La profesora habla,La profesora habla,0.624,3.02,54.1,low_confidence
+learner,learner_02_sentence_03,/content/audio_samples/learner_02_sentence_03.wav,Nosotros vivimos en una ciudad grande,Nosotros vivimos en una ciudad grande,0.848,2.4,53.0,
+learner,learner_02_sentence_04,/content/audio_samples/learner_02_sentence_04.wav,Ella siempre estudia por la noche,Ella siempre estudia por la noche,0.863,2.92,53.9,
+learner,learner_02_sentence_05,/content/audio_samples/learner_02_sentence_05.wav,Los pájaros cantan en el jardín,Los pájaros cantan en el jardín,0.709,2.83,54.0,
+learner,learner_03_sentence_01,/content/audio_samples/learner_03_sentence_01.wav,El niño come una manzana roja,El niño come una manzana roja,0.83,1.89,52.7,
+learner,learner_03_sentence_02,/content/audio_samples/learner_03_sentence_02.wav,La profesora habla,La profesora habla,0.614,2.64,53.4,low_confidence
+learner,learner_03_sentence_03,/content/audio_samples/learner_03_sentence_03.wav,Nosotros vivimos en una ciudad grande,Nosotros vivimos en una ciudad grande,0.862,2.39,53.4,
+learner,learner_03_sentence_04,/content/audio_samples/learner_03_sentence_04.wav,Ella siempre estudia por la noche,Ella siempre estudia por la noche,0.832,2.83,53.6,
+learner,learner_03_sentence_05,/content/audio_samples/learner_03_sentence_05.wav,Los pájaros cantan en el jardín,Los pájaros cantan en el jardín,0.826,1.94,53.0,
